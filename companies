@@ -33,3 +33,34 @@ html>
 </p>
 </body>
 </html>
+
+
+//TCS
+
+
+<html>
+<head>
+<title>tcs</title>
+</head>
+<body>
+<p>
+<ol>
+<li><strong>Quatitative Aptitude Test:</strong><br />
+The first is the Quantitative Aptitude test where the numerical and the reasoning ability sections are tested. There are 20 questions that need to be attempted in 40 minutes. There are 2-star questions which have more weight than normal questions and are a bit tricky. There is negative marking of 1/3rd for the questions other than the star. Important topics include Number system, Equations, Ratio and Proportion, Percentages, Profit and Loss, Time and Work, Time speed Distance, Areas and Mensuration, Averages, Permutations and Combinations, Probability, Plane geometry, Seating Arrangements, Sets, Progressions, Functions, Series, Coding, Truth and Lie based puzzles.
+</li>
+<p><li><strong>Programming Language Test:</strong><br />
+This round consists of general questions from computer science and programming languages. It consists of 10 to 12 questions and the time allotted is 20 minutes. It is an MCQ round and basically consists of basic programming questions.
+</li>
+
+<li><p><strong>Coding Round:</strong><br />
+This is a technical coding round. It consists of 1 to 2 questions and the time allotted is 20 minutes.</p>
+<li><p><strong>Technical Round :</strong><br />
+The students who clear the written round are called for Technical Interview. There is no hard &#038; fast rule for which questions will be asked in this round, you can expect questions on any topic depending on the panel. To clear this round you should be clear with your basics. You should be prepared with Data structures and Algorithms, DBMS, Operating System, Networking, OOPs concepts and a programming language of your choice. Students from branches other than CS should prepare for the other two subjects related to their branch. CS students will be expected to write codes in the interview. You may be asked puzzles in this round.</li>
+<li><p><strong>Managerial Round :</strong><br />
+This round includes everything which was in Technical round plus it will be under pressure and a lot of cross-checking. Doubts will be raised on your answers to check if you can handle stress or not. Students may or may not be sent to this round depending on the feedback of the previous round. If the feedback of the previous round was good you may expect to directly been sent to HR round. Key for this round is to be calm, confident, clear on your thoughts and to not give up on pressure. If you don&#8217;t know the answer you must try to attempt it with whatever you know.</p></li>
+<li><p><strong>HR Round :</strong><br />
+This is the final round of the recruitment process. The interview panel can question you anything related to your personality, family, education, hobbies, internships, general knowledge, basic HR questions like Why should I hire you?, If any problem in relocation etc. The key here is to be confident about everything you speak.</li>
+</ol>
+</p>
+</body>
+</html>
