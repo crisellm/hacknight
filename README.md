@@ -37,3 +37,39 @@ projects
 <button type="button" class="btn btn-outline-info">Info</button>
 <button type="button" class="btn btn-outline-light">Light</button>
 <button type="button" class="btn btn-outline-dark">Dark</button>
+
+// acolite
+<html>
+<head>
+<title>accolite</title>
+</head>
+<body>
+<h2 id="Recruitment Process"><strong>Recruitment Process :</strong></h2>
+<p>Accolite conducts 5-7 rounds to select freshers as software Engineer in their organisation.</p>
+<ul>
+<li>Aptitude Round</li>
+<li>Coding Round</li>
+<li>Technical Round 1</li>
+<li>Technical Round 2</li>
+<li>Technical Round 3</li>
+<li>Technical Round 4</li>
+<li>HR Round</li>
+</ul>
+<p><strong>Aptitude Round :</strong><br />
+This is an online round ,which consisted of MCQ’s covering General aptitude, C, C++, OS, DBMS. Generally, there is a negative marking (-0.25) for each wrong answer.</p>
+<p><strong>Coding Round :</strong><br />
+The students who clear the written round are called for Coding Round. In this round you can expect three coding problems. To clear this round, you should be strong with data structures and algorithms with neat code writing skills.</p>
+<p><strong>Technical Rounds :</strong><br />
+The students who clear the written round are called for coding round. To clear this round you should be clear with your basics. You should be prepared with Data structures and Algorithms, DBMS, OOPs concepts. Students will be expected to write codes in the interview. You can also expect questions from resume. You may be asked puzzles in this round.
+<p><strong>HR Round :</strong><br />
+In this round you can expect HR questions like :<br />
+1. Tell me about Yourself<br />
+2. Why Accolite?<br />
+3. Preferred work places<br />
+4. How you see yourself after five years from now ?<br />
+5. Hobbies<br />
+6. What are your strengths and weaknesses ?<br />
+7. Questions form resume</p>
+</p>
+</body>
+</html>
