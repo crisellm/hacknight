@@ -63,3 +63,74 @@
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+
+
+//ABOUT US
+
+<!DOCTYPE html>
+<html>
+<head><!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <!-- Compiled and minified JavaScript -->
+    
+<title>week4assignment</title>
+
+
+<title>week4assignment</title>
+</head>
+
+<body>
+<script> 
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.dropdown-trigger');
+    var instances = M.Dropdown.init(elems, options);
+  });
+  
+  </script>
+<table border="2" cellspacing="8" align="Center">
+<tr>
+<td colspan="1" align="center"><img src="sah logo.png"/></td>
+<th colspan="5"><p><h3>SAHYADRI COLLEGE OF ENGINEERING AND MANAGEMENT<h3></p>
+
+</th>
+<td colspan="2" shape="rectangle">
+</tr>
+<tr><td colspan="8"><marquee direction=right><i><b>CONTACT:8971571222,9972725426</b></i></marquee></td></tr>
+</table>
+<nav class="navbar navbar-expand navbar-dark bg-dark">
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href='C:\Users\HP\Desktop\project\web.html'>HOME<span class="sr-only">(current)</span></a>
+      </li>
+     
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          PLACEMENTS
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">2017</a>
+          <a class="dropdown-item" href="#">2016</a>
+		   <li class="nav-item">
+        <a class="nav-link" href="#">ABOUT US</a>
+      </li>
+          
+    </ul>
+	
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">SEARCH</button>
+    </form>
+  </div>
+</nav>
+div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="place.png" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Sahyadri placements</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
